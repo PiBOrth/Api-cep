@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#pillNav2 {
+    margin: 3vh 0;
+    width: 50vw !important;
+}
+a, a:visited {
+    text-decoration: none;
+}
+.form {
+    width: 20vw;
+}
+.tab {
+    display: none;
+}
+div.active {
+    display: flex;
+    flex-direction: column;
+}
+.table {
+    width: 70vw;
+}
+.tab-endereco {
+    align-items: center;
+}
